@@ -6,4 +6,4 @@ Below is my GitHub account and deployed Streamlit App
 
 [My Github account](http://www.github.com/Nataww)
 
-[Streamlit App](link of streamlit app)
+[Streamlit App](http://youtube-summarizer-nataww-jzgcms7oyabkyfxx3kf7p4.streamlit.app)
